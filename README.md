@@ -3,6 +3,8 @@
 ![hOMEWORK](./yenusd.PNG)
 
 ## Time Series and Regression Mission
-* Analyzed time series
-* Examle
-* Analyzed Regression 
+* Analyzed Time Series
+* Utilized ARMA, ARIMA and GARCH models
+* Analyzed Linear Regression 
+* Forecasted Yen Price
+* Forecasted Yen Volatility
